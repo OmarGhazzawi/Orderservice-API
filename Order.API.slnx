@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="../ApiGateway/ApiGateway.csproj" Id="3ba1c951-db30-458f-982d-2c3f1737ffa0" />
+  <Project Path="../InventoryService/InventoryService.API/InventoryService.API.csproj" Id="9a4badd6-fa38-4264-adb2-48a9fe88ca76" />
+  <Project Path="../InventoryService/InventoryService.Business/InventoryService.Business.csproj" Id="89afd794-8920-43b5-a4a1-9342de6b9dbc" />
+  <Project Path="../InventoryService/InventoryService.Domain/InventoryService.Domain.csproj" Id="0c0813f3-7154-4876-841f-5ee0c798a441" />
+  <Project Path="../InventoryService/InventoryService.Persistence/InventoryService.Persistence.csproj" Id="2de7adf0-e9c7-4dd8-b7d2-57236ef18818" />
+  <Project Path="Order.API/Order.API.csproj" />
+  <Project Path="Orderbusiness/Orderbusiness.csproj" />
+  <Project Path="OrderDomain/OrderDomain.csproj" />
+  <Project Path="OrderPersistence/OrderPersistence.csproj" />
+</Solution>
